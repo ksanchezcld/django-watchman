@@ -1,4 +1,4 @@
-django<1.9
+django<3.2.20
 
 # django-watchman
 -e /vagrant/
