@@ -9,3 +9,4 @@ restructuredtext_lint==0.12.2
 # We use PyMySQL because it's pure python, has no C dependencies and can emulate MySQLDb
 PyMySQL>=0.7.5
 tox>=1.7.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
